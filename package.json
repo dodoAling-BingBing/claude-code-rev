@@ -45,7 +45,7 @@
     "ajv": "*",
     "asciichart": "*",
     "auto-bind": "*",
-    "axios": "*",
+    "axios": "1.14.0",
     "bidi-js": "*",
     "chalk": "*",
     "chokidar": "*",
